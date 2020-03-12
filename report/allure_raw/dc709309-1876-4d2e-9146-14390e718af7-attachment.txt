@@ -1,0 +1,3 @@
+---先进行登录---
+{'User-Agent': 'python-requests/2.18.4', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Authorization': 'Token aa818274cb1c28b631ea1f44dcc9a2eb2f9c5d26'}
+{'message': '参数类型错误', 'code': 3333, 'data': []}

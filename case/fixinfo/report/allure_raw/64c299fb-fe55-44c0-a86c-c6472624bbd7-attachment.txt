@@ -1,0 +1,3 @@
+---先进行登录---
+{'User-Agent': 'python-requests/2.18.4', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Authorization': 'Token dfaca1087896da42e69d270de3da20c40fb022c6'}
+{'message': 'update some data!', 'code': 0, 'data': {'name': 'test', 'sex': 'M', 'age': '20', 'mail': '283340479@qq.com'}}

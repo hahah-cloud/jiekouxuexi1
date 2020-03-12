@@ -1,0 +1,11 @@
+update_info_sex:
+-  ["F",{"message":"update some data!","code":0}]
+-  ["M",{"message":"update some data!","code":0}]
+-  ["x",{"message":"参数类型错误","code":3333}]
+
+
+update_info_2:
+-  ["test","M",20,"283340479@qq.com",{"message":"update some data!","code":0}]
+-  [" "," ",000," ",{'message': '无权限操作', 'code': 4000}]
+-  ["889999999999999","jdjdjdjdjj",7777,"89999@3457890",{'message': '无权限操作', 'code': 4000}]
+-  ["test1234","F","123","1881148760956789@qq.com",{'message': '无权限操作', 'code': 4000}]

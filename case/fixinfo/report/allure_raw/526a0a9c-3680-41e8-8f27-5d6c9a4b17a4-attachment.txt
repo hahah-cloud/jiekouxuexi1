@@ -1,0 +1,5 @@
+当前环境为http://49.235.92.12:9000
+当前环境变量:http://http://49.235.92.12:8020
+---先进行登录---
+{'User-Agent': 'python-requests/2.18.4', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Authorization': 'Token a77d8841a8bec9e3d9f4a3552067f6e2ee2549c1'}
+{'message': 'update some data!', 'code': 0, 'data': {'name': 'test', 'sex': 'M', 'age': '20', 'mail': '283340479@qq.com'}}
