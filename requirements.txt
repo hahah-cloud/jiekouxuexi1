@@ -17,7 +17,7 @@ colorama==0.4.3
 colorlog==4.1.0
 crypto==1.4.1
 cryptography==2.8
-Django==2.0.3
+Django==2.2.10
 django-celery==3.2.2
 eventlet==0.22.1
 execnet==1.7.1
