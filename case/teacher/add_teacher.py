@@ -60,9 +60,12 @@ class AddTeacher():
 
 
 
+
+
 if __name__ == '__main__':
     shili=AddTeacher(s)
     shili.login()
-    result=shili.add_teacher(name="yoyo678")
-    actul_result=shili.get_add_teacher(result)
-    assert actul_result=="yoyo678"
+    # result=shili.add_teacher(name="yoyo678")
+    # actul_result=shili.get_add_teacher(result)
+    # assert actul_result=="yoyo678"
+    shili.add_img(title="图片123455")

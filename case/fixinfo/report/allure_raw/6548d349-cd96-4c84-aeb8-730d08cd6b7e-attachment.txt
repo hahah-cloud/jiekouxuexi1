@@ -1,3 +1,0 @@
----先进行登录---
-{'User-Agent': 'python-requests/2.18.4', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Authorization': 'Token d9b6ec0e136c3329e5da33edb613d5e118872c33'}
-{'message': '无权限操作', 'code': 4000, 'data': []}
